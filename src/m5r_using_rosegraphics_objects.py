@@ -53,7 +53,7 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #            displays shapes on the window
 #
 #     g. When is a RoseWindow close_on_mouse_click method call necessary?  Why?
-#            makes sure there the window does not automatically close
+#            makes sure the window does not automatically close
 #
 #   ASK QUESTIONS ** NOW ** if you do not understand how the
 #     RoseGraphics graphics system works.
