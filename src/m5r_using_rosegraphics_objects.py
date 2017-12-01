@@ -126,8 +126,7 @@ def example3():
     window = rg.RoseWindow(width, height)
 
     # ------------------------------------------------------------------
-    # Circle: needs its center and radius.
-    # Has  fill_color  instance variable.
+    # Circle: needs its center and radius.    # Has  fill_color  instance variable.
     # ------------------------------------------------------------------
     center_point = rg.Point(300, 100)
     radius = 50
